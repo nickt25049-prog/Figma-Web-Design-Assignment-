@@ -1,5 +1,5 @@
 Name: Nick Tyagi
-Enrollment Number: XXXXXXXX
+Enrollment Number: 2502140049
 
 GitHub Repository:
 https://github.com/nickt25049-prog/Figma-Web-Design-Assignment-
